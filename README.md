@@ -7,6 +7,6 @@
 
 xxxxxxx
 
-解决文案：
+解决方案：
 
 xxxxxxxx
